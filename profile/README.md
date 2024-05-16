@@ -4,7 +4,7 @@
 
 Somos un grupo de aprendizaje de la Universidad Nacional de Colombia que busca incentivar a sus estudiantes a aprender sobre Inteligencia Artificial (IA) y Machine Learning (ML) mediante la iniciativa AWS Deepracer.
 
-## Links 📎:
+## Links 📎
 
 - **Info sobre la iniciativa**: [AWS Deepracer](https://aws.amazon.com/es/deepracer)
 - **Plataforma Deepracer Student**: [Deepracer Student](https://student.deepracer.com/home)
@@ -15,13 +15,13 @@ Somos un grupo de aprendizaje de la Universidad Nacional de Colombia que busca i
 - **Grupo de WhatsApp**: [Unirse al Grupo](https://chat.whatsapp.com/FAe0gfZBWYY17wFjfLncaL)
 - **Formulario para unirse a la organización de GitHub o postular un proyecto**: [Google Sheet](https://docs.google.com/spreadsheets/d/1O0Wof6oKQLDJfRa0LjYJxhk4MHaDIrXB9mF7sY8NIAw/edit?usp=sharing)
 
-## Calendario 📆:
+## Calendario 📆
 
 - **La temporada regular está abierta**
 - **Calificación para la beca abierta**
 - **Solicitud para la beca abierta**
 
-## Reglas 📋:
+## Reglas 📋
 
 - No hacer flood (2 o más mensajes iguales seguidos).
 - Evitar textwall (misma palabra repetida más de 4 veces).
