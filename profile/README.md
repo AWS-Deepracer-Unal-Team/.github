@@ -17,10 +17,6 @@ Somos un grupo de aprendizaje de la Universidad Nacional de Colombia que busca i
 
 ## Calendario 📆
 
-- **La temporada regular está abierta**
-- **Calificación para la beca abierta**
-- **Solicitud para la beca abierta**
-
 ## Reglas 📋
 
 - No hacer flood (2 o más mensajes iguales seguidos).
